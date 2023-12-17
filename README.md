@@ -1,2 +1,2 @@
 # Ransomware with C&C Server
-# ransomware
+This repo is a demonstration of a ransomware distributed on many machines, and capable of communicating with a Command and Control (C&C or C2) server.
